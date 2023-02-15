@@ -1,0 +1,6 @@
+[submodule "TrainHandler-server"]
+	path = TrainHandler-server
+	url = https://github.com/FAIRDataTeam/TrainHandler-server
+[submodule "TrainHandler-client"]
+	path = TrainHandler-client
+	url = https://github.com/FAIRDataTeam/TrainHandler-client
